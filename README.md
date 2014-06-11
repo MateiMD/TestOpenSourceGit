@@ -1,4 +1,0 @@
-TestOpenSourceGit
-=================
-
-TestOpenSourceGit
